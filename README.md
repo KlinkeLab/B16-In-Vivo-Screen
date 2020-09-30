@@ -24,7 +24,7 @@ The code provided in this repository reproduces the main results of the study of
 
 For a single example of the MCMC analysis, see the B16 In Vivo Screen Example MCMC Analysis script.
 
-For the full analysis of all data used in the paper, first run the B16_InVivoScreen_RawData.R script, then run the B16_InVivoScreen_MCMC.R script.
+For the full analysis of all data used in the paper, first run the B16_InVivoScreen_RawData.R script, then run the B16_InVivoScreen_MCMC.R script. Note that the pdf generating lines are currently commented out to speed up the code run time. To see the generated figures, simply uncomment these lines.
 
 To generate the summary figure used in the paper, complete the full analysis of all data, then run the ComparisonFigure.R file.
 
