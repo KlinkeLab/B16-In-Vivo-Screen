@@ -10,13 +10,15 @@ This repository supplies the code developed in the study of (insert authorship) 
 
 ## **Data**
 
-A set of example data from the paper is provided in the script B16 In Vivo Screen Example MCMC Analysis. This data represents a group of C57BL/6 mice injected with B16F0 wild type cells that was used as a control group for comparison with the DNMT3A and PTPN11 knock outs injected in C57BL/6 mice.
-
 All raw data used in the experiment is provided in the B16_InVivoScreen_RawData.R script.
 
 ## **Quick start**
 
-To reproduce the results, download the script. Running the scripts will generate all relevant figures and data tables for the given portion of the study.
+To reproduce the results, download the scripts. Running the scripts in the following order will generate all relevant figures and data tables for the given portion of the study.
+
+1) B16_InVivoScreen_RawData.R
+2) B16_InVivoScreen_MCMC.R
+3) B16_InVivoScreen_Analysis_Normalized.R
 
 # General notes
 
