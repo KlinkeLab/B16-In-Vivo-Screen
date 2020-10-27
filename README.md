@@ -16,9 +16,9 @@ All raw data used in the experiment is provided in the B16_InVivoScreen_RawData.
 
 To reproduce the results, download the scripts. Running the scripts in the following order will generate all relevant figures and data tables for the given portion of the study.
 
-1) B16_InVivoScreen_RawData.R
-2) B16_InVivoScreen_MCMC.R
-3) B16_InVivoScreen_Analysis_Normalized.R
+1) 1_B16_InVivoScreen_RawData.R
+2) 2_B16_InVivoScreen_MCMC.R
+3) 3_B16_InVivoScreen_Analysis_Normalized.R
 
 # General notes
 
