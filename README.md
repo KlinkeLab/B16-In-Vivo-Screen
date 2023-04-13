@@ -1,7 +1,7 @@
 
 # **B16 In Vivo Screen**
 
-This repository supplies the code developed in the study of (insert authorship) **_"B16 In Vivo Screen"_**. The corresponding pre-print can be found on bioRxiv ( doi: ). It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
+This repository supplies the code developed in the study of Pirkey et al. **_"Head-to-head comparison of CCN4, DNMT3A, PTPN11, and SPARC as suppressors of anti-tumor immunity"_**. The corresponding pre-print can be found on bioRxiv ( doi:https://doi.org/10.1101/2022.04.01.486749 ). It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
 
 ## **Requirements**
 
@@ -22,7 +22,7 @@ To reproduce the results, download the scripts. Running the scripts in the follo
 
 # General notes
 
-The code provided in this repository reproduces the main results of the study of (insert authors) **_"B16 In Vivo Screen"_** but it is not meant as a self-contained module for use in further analysis.
+The code provided in this repository reproduces the main results of the study of Pirkey et al. **_"Head-to-head comparison of CCN4, DNMT3A, PTPN11, and SPARC as suppressors of anti-tumor immunity"_** but it is not meant as a self-contained module for use in further analysis.
 
 For the full analysis of all data used in the paper, first run the B16_InVivoScreen_RawData.R script, then run the B16_InVivoScreen_MCMC.R script. Note that the pdf generating lines are currently commented out to speed up the code run time. To see the generated figures, simply uncomment these lines.
 
