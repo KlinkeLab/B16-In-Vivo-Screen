@@ -1,7 +1,7 @@
 
 # **B16 In Vivo Screen**
 
-This repository supplies the code developed in the study of Pirkey et al. **_"Head-to-head comparison of CCN4, DNMT3A, PTPN11, and SPARC as suppressors of anti-tumor immunity"_**. The corresponding pre-print can be found on bioRxiv ( doi:https://doi.org/10.1101/2022.04.01.486749 ) and has now been published as Pirkey et al. (2023) Cell Mol Bioeng Oct 28; 16(5-6):431-442. It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
+This repository supplies the code developed in the study of Pirkey et al. **_"Head-to-head comparison of CCN4, DNMT3A, PTPN11, and SPARC as suppressors of anti-tumor immunity"_**. The corresponding pre-print can be found on bioRxiv ( doi: https://doi.org/10.1101/2022.04.01.486749 ) and has now been published as Pirkey et al. (2023) Cell Mol Bioeng Oct 28; 16(5-6):431-442. It can be used to reproduce the results of the study and investigate the methodology to be used for other datasets.
 
 ## **Requirements**
 
